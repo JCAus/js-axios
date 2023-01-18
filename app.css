@@ -1,0 +1,23 @@
+#container{
+    top: 100px;
+    position: relative;
+    background-color: green;
+    width: 500px;
+    height: 600px;
+    left: 43%;
+}
+
+.card{
+    position: absolute;
+}
+
+body{
+    background-color: green;
+    align-items: center;
+    justify-content: center;
+}
+
+#btn{
+    position: absolute;
+    left: 48%;
+}
